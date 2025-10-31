@@ -1,5 +1,5 @@
 # Play the Game
-[Click here to play Rock Paper Scissors](rock-paper-scissor-game-git-main-anamikas-projects-8a0b2df0.vercel.app)
+[Click here to play Rock Paper Scissors](https://rock-paper-scissor-game-fs9oa0t5c-anamikas-projects-8a0b2df0.vercel.app)
 
 
 # 🪨 Rock Paper Scissors Game
