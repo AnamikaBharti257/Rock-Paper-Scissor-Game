@@ -1,5 +1,5 @@
 # Play the Game
-rock-paper-scissor-game-pi-three.vercel.app
+rock-paper-scissor-game-git-main-anamikas-projects-8a0b2df0.vercel.app
 
 # 🪨 Rock Paper Scissors Game
 
